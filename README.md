@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lweller86" alt="lweller86" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced problem solving using JavaScript Framework**
+- 🌱 I’m currently learning **Applied Computer Sciences**
 
 - 💬 Ask me about **SQL, REACT, Database**
 
